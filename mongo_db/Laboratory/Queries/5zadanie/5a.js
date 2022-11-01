@@ -1,0 +1,1 @@
+db.business.find({stars: 5}).count()
